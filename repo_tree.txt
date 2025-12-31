@@ -1,0 +1,23 @@
+Alz_face_analyze/
+├── claude_chat_log.md
+├── data/
+│   ├── list.csv or .xlsx
+│   ├── class A/
+│   │   ├── subject 1.json or .csv
+│   │   ├── subject 2.json or .csv
+...
+│   │   └── subject X.json or .csv
+│   ├── class B/
+│   │   ├── subject 1.json or .csv
+│   │   ├── subject 2.json or .csv
+...
+│   │   └── subject X.json or .csv
+│   └── class C/
+│       ├── subject 1.json or .csv
+│       ├── subject 2.json or .csv
+...
+│       └── subject X.json or .csv
+├── .gitignore
+├── poetry.lock
+├── pyproject.toml           
+└── repo_tree.txt
