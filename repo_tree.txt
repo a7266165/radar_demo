@@ -3,20 +3,29 @@ Alz_face_analyze/
 ├── data/
 │   ├── list.csv or .xlsx
 │   ├── class A/
-│   │   ├── subject 1.json or .csv
-│   │   ├── subject 2.json or .csv
+│   │   ├── subject 1_1.json or .csv
+│   │   ├── subject 1_2.json or .csv
+│   │   ├── subject 2_1.json or .csv
+│   │   ├── subject 2_2.json or .csv
+│   │   ├── subject 3_1.json or .csv
 ...
-│   │   └── subject X.json or .csv
+│   │   └── subject X_Y.json or .csv
 │   ├── class B/
-│   │   ├── subject 1.json or .csv
-│   │   ├── subject 2.json or .csv
+│   │   ├── subject 1_1.json or .csv
+│   │   ├── subject 1_2.json or .csv
+│   │   ├── subject 2_1.json or .csv
+│   │   ├── subject 2_2.json or .csv
+│   │   ├── subject 3_1.json or .csv
 ...
-│   │   └── subject X.json or .csv
+│   │   └── subject X_Y.json or .csv
 │   └── class C/
-│       ├── subject 1.json or .csv
-│       ├── subject 2.json or .csv
+│   │   ├── subject 1_1.json or .csv
+│   │   ├── subject 1_2.json or .csv
+│   │   ├── subject 2_1.json or .csv
+│   │   ├── subject 2_2.json or .csv
+│   │   ├── subject 3_1.json or .csv
 ...
-│       └── subject X.json or .csv
+│   │   └── subject X_Y.json or .csv
 ├── .gitignore
 ├── poetry.lock
 ├── pyproject.toml           
